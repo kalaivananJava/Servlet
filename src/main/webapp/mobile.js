@@ -1,0 +1,3 @@
+function getAllMobiles(){
+    alert("working")
+}
